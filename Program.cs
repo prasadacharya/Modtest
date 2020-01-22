@@ -6,8 +6,9 @@ namespace ModTest
     {
         static void Main(string[] args)
         {
-            int a = 7;
-            int b = 3;
+            int a = 88;
+            int b = 9;
+            
 
             int result = (a - b * (a / b));
 
